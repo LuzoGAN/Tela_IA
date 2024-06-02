@@ -15,11 +15,6 @@ def perguntar(questao):
     return requests.post(url, json=data)
 
 
-[09: 23] Luzo
-Gomes
-Araujo
-Neto
-
 
 def start_server():
     host = '10.151.7.219'  # Endereço do servidor
